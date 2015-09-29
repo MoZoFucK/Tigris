@@ -1,0 +1,15 @@
+---
+title: Spécialisation commerciale 
+subtitle: 
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: 
+client: 
+category: 
+description: Il est, aujourd'hui, très difficile de trouver le bon commercial. Celui qui saura comprendre vos produits, les aimer et les vendre correctement et éthiquement. Après vous avoir rencontrer et compris vos attentes, le fonctionnement de votre entreprise et vos produits nous faisons  <ul class="item-details"><li>rédaction d'un cahier des charges selon vos besoins</li> <li>rédaction précise de l'annonce de recrutement </li>    <li>diffusion de l'annonce sur les sites spécialisés et dans nos réseaux</li>    <li>première sélection de candidats que nous vous présentons (si nous avons établie cet accord à notre rencontre). Sélection faite via, test de vente, personnalité, mise en situation.</li>    <li>Recrutement </li>    <li>Mise sur poste (explication, suivi à distance jusqu'à la première vente)</li></ul>Si vous optez pour la recrutement et formation vente <ul class="item-details">   <li>Processus de recrutement (ci dessus)</li>    <li>Formation sur les techniques de vente (formation reconnue)</li>    <li>Accompagnement prise de rendez-vous et rendez-vous</li>    <li>Suivi personnalisé jusqu'aux premières ventes</li>    <li>Suivi régulier selon vos besoins</li></ul>Nous recrutons et formons également les manager commerciaux et pouvons mettre en place une structure commerciale (organisation, méthodologie de travail, fonctionnement) ("formation" et "management- structure de l'entreprise"---> lien cliquable qui redirigent vers les pages concernés)
+
+---
